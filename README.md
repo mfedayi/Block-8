@@ -1,2 +1,4 @@
 # Block-8
-repo for Block-8 assignment
+
+Repo for the Block-8 assignment
+adding content to READ ME through terminal
